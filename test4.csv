@@ -1,0 +1,7 @@
+0,CombatZoneResize,133,251,508,391,TLResume,,
+0,HeartTeleport,320,304,,,,,
+0,HeartMode,8,,,,,,
+0,Sound,Ding,,,,,,
+0,TLPause,,,,,,,
+0,BoneVM,229,171,215,0,180,-2.2,9
+0.05,JMPABS,6,,,,,,

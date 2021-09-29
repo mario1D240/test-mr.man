@@ -1,0 +1,14 @@
+0,CombatZoneResize,241,226,406,391,TLResume,,,
+0,HeartTeleport,320,304,,,,,,
+0,HeartMode,1,,,,,,,
+0,TLPause,,,,,,,,
+,Sansslam,1,,,,,,,
+0,PlatformRepeatR,-40,340,0,Size4,0,120,10,70
+6,Sansslam,2,,,,,,,
+0,PlatformRepeatR,300,-40,1,Size4,1,120,10,70
+6,Sansslam,3,,,,,,,
+0,PlatformRepeatR,680,280,2,Size4,2,120,10,70
+6,Sansslam,0,,,,,,,
+0,PlatformRepeatR,340,520,3,Size4,3,120,10,70
+6,Sansslam,1,,,,,,,
+0,Platform,324,320,100,0,0,,,
