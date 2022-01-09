@@ -1,0 +1,49 @@
+0,SansAnimation,,,,,,,,
+0,SansHead,ClosedEyes,,,,,,,
+0,SansText,is a MTH exam day                 outside.,,,,,,,
+0,SansText,Some student are reject              the exam.,,,,,,,
+0,SansText,Some student already             dead.,,,,,,
+0,SanaHead,NoEyes,,,,,
+0,SansText,But you use CHEAT              on this exam.,,,,,,
+0,SansText,On day like these        kids like bad student.,,,,,,,
+0,SansHead,NoEyes,,,,
+0,SansText,Should Be Burning On The Homework,,,,,,
+0,DamagePlayer,-58,,,
+0,BlackScreen,1,,,
+0,Sound,Flash,,,
+0.06666,BlackScreen,0,,,
+0,Sound,Flash,,,
+0,CombatZoneResizeInstant,239,226,404,391
+0,HeartTeleport,320,304,,
+0,HeartMode,0,,,
+0,SansBody,HandDown,,,
+0,SansHead,BlueEye,,,
+0,Sound,GasterBlaster,1.4,,
+0.26666,SansSlam,1,,,
+0.5,SansBody,HandUp,,,
+0,SansHead,NoEyes,,,
+0,BoneStab,1,30,0.16666,1,,,,
+0.7,HeartMode,0,,,,,,,
+0,SansBody,HandRight,,,,,,,
+0,Sound,Ding,,,,,,,
+0.4,Sound,GasterBlaster,1.4,,,,,,
+0.4,SineBones,20,-24,200,25,,,,
+0.3,SansSlam,0,,
+1.1,SansAnimation,,,,,,,,
+3.0,GasterBlaster,1,0,480,170,366,0,0.333,0.26666
+0,GasterBlaster,1,640,0,460,246,180,0.333,0.26666
+0.9,GasterBlaster,1,640,0,379,166,90,0.333,0.26666
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,1,0,320,170,320,0,0.333,0.26666
+1.5,SansBody,HandUp,,,,,,,
+0,SansSlam,3,,,,,,,
+0.2,SansAnimation,,,,,,,,
+0,GasterBlaster,1,320,0,320,166,90,0.333,0.26666
+0,GasterBlaster,1,640,246,460,246,180,0.333,0.26666
+0.7,HeartMode,0,,,,,,,
+0,GasterBlaster,1,0,480,170,366,0,0.333,0.26666
+0,GasterBlaster,1,640,0,460,246,180,0.333,0.26666
+0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
+0,GasterBlaster,1,640,480,379,460,-90,0.333,0.26666
+2.0,SansText,Were we go.,,,
+0,EndAttack,,,,,,,,
