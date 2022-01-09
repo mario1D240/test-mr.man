@@ -11,7 +11,7 @@
 0,SansBody,UT_HandRight,,,,,,,
 0,Sound,Ding,,,,,,,
 0.4,Sound,GasterBlaster,1.4,,,,,,
-0.4,SineBones,20,-24,200,25,,,,
+0.4,SineBones,20,-24,360,25,28,,,
 0.3,SansSlam,0,,
 1.1,SansAnimation,,,,,,,,
 2.5,GasterBlaster,1,0,480,170,366,0,0.333,0.26666
