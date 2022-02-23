@@ -212,7 +212,7 @@
 		"media/mus_birdnoise.ogg",
 		"media/mus_choice.ogg",
 		"media/mainmenu.ogg",
-		"media/[underretale] select menu.ogg",
+		"media/[underretale] select menu.webm",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
